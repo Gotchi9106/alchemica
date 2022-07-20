@@ -1,2 +1,2 @@
 # alchemica
-a small alchemica dashboard for the aavegotchi gotchiverse
+a small aavegotchi alchemica dashboard
